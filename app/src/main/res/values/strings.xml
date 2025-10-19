@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UserSurveyApp</string>
+    <string name="label_name">Имя</string>
+    <string name="error_name">Введите имя</string>
+    <string name="label_age">Возраст</string>
+    <string name="gender_male">Мужской</string>
+    <string name="gender_female">Женский</string>
+    <string name="checkbox_news">Хочу получать новости</string>
+    <string name="button_send">Отправить</string>
+    <string name="label_subscription">Подписка</string>
+    <string name="summary_title">Сводка данных:</string>
+    <string name="avatar_description">Аватар пользователя</string>
+</resources>
